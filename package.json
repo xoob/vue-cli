@@ -1,4 +1,5 @@
 {
+  "version": "3.355.1-custom",
   "private": true,
   "workspaces": [
     "packages/@vue/*",
